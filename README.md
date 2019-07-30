@@ -6,7 +6,7 @@ Sensitive Fliter for Laravel5 based on [sensitive-words](https://github.com/zeng
 ## Install
 
 ```shell
-composer require codetrainee/sensitive-words
+composer require zenghuang19/sensitive-words
 ```
 
 
