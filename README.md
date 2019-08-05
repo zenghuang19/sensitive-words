@@ -38,7 +38,7 @@ if ($result['conclusionType'] != 1){
     //不合格的返回代码
 }
 ```
-#####个人账号
+个人账号
 百度的文本审核是免费的，只限制QPS
 图片审核每天限制2000张。企业账号未了解。更多使用方式及返回参数请查看 [百度官方文档](https://ai.baidu.com/docs#/ImageCensoring-PHP-SDK/418b8ff4)
 
