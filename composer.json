@@ -17,11 +17,6 @@
     "require-dev": {
         "phpunit/phpunit": "~6.0"
     },
-//    "autoload": {
-//        "psr-4": {
-//            "Codetrainee\\SensitiveWords\\": "src/"
-//        }
-//    },
     "extra": {
         "laravel": {
             "providers": [
